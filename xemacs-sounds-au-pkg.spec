@@ -2,7 +2,7 @@ Summary:	XEmacs Sun sound files
 Summary(pl):	XEmacs Sun sound files
 Name:		xemacs-sounds-au-pkg
 %define 	srcname	sounds-au
-Version:	1.09
+Version:	1.10
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
