@@ -2,12 +2,12 @@ Summary:	XEmacs Sun sound files
 Summary(pl):	Sunowskie pliki d¼wiêkowe do XEmacsa
 Name:		xemacs-sounds-au-pkg
 %define 	srcname	sounds-au
-Version:	1.10
-Release:	2
+Version:	1.12
+Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	256e09c0570a19ae545350681bacaf3e
+# Source0-md5:	9bf0b5a2ac38a4fe2d710063ddcaadd3
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
 Conflicts:	xemacs-sumo
