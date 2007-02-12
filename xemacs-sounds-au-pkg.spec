@@ -1,5 +1,5 @@
 Summary:	XEmacs Sun sound files
-Summary(pl.UTF-8):   Sunowskie pliki dźwiękowe do XEmacsa
+Summary(pl.UTF-8):	Sunowskie pliki dźwiękowe do XEmacsa
 Name:		xemacs-sounds-au-pkg
 %define 	srcname	sounds-au
 Version:	1.12
